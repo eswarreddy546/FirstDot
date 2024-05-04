@@ -17,7 +17,7 @@ export default function Home() {
                         <a class="nav-link active" href="">AboutUs</a>
                         <a class="nav-link active" href="">SignUp</a>
                         <a class="nav-link active" href="">Login</a>
-                        <a class="nav-link active" href="">Contact</a>
+                        <a class="nav-link active" href="Contact">Contact</a>
                     </div>
                 </div>
             </div>
