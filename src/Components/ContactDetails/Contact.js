@@ -27,7 +27,8 @@ export default function Contact() {
       <div className="mb-3 row justify-content-center">
         <label htmlFor="city" className="col-sm-2 col-form-label">City:</label>
         <div className="col-sm-2">
-          <input type="text" className="form-control" id="inputCity" />
+          <input type="text" className="form-control" id="inputCity" aria-label="City" />
+          
         </div>
       </div>
 
